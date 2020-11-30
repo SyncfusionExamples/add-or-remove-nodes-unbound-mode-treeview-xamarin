@@ -1,2 +1,1 @@
-# add-or-remove-nodes-unbound-mode-treeview-xamarin
-How to add or remove nodes to unbound mode TreeView in Xamarin.Forms (SfTreeView)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12128/how-to-add-or-remove-nodes-to-unbound-mode-treeview-in-xamarin-forms-sftreeview)**
